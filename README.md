@@ -1,2 +1,2 @@
 # SeaturtleProject
-The project aims 
+The project aims to 
